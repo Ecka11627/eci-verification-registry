@@ -32,4 +32,3 @@ See VERIFYING.md.
 - Hash entries are append-only in practice (new versions are added, old versions remain visible).
 - Releases are versioned.
 - Any change to a document requires a new version and a new hash.
-
