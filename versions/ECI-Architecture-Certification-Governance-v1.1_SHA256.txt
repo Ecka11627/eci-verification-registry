@@ -1,0 +1,48 @@
+DOCUMENT: ECI – Architecture, Certification & Governance brief
+STANDARD: The Andersen Standard
+VERSION: v1.1
+STATUS: ACTIVE
+
+OWNER: Erik Andersen
+PUBLICATION DATE: 12 January 2026
+
+FILE NAME: ECI_v1.1_with_QR_revA.pdf
+HASH ALGORITHM: SHA-256
+HASH: 4CD89D93C8DC1FBA5D21DD8B65EDB492A15053790F20E57644564DB84C48B1EC
+
+CANONICAL SOURCE:
+This registry entry published in this repository is the authoritative
+cryptographic fingerprint of the document listed above.
+
+VERIFICATION INSTRUCTIONS:
+1) Compute SHA-256 hash of the PDF file you received.
+2) Compare your computed hash to the HASH value above.
+3) If identical, the document is authentic and untampered.
+4) If different, the document is invalid or altered.
+
+CHANGE CONTROL:
+Any modification to the document requires:
+- a new version number
+- a new PDF export
+- a new SHA-256 hash
+- a new registry entry committed to this repository
+
+BLOCKCHAIN ANCHOR:
+Status: PENDING
+Service: TBD
+Network: TBD
+Transaction ID: TBD
+Timestamp (UTC): TBD
+Verification URL: TBD
+
+---
+DECLARATION
+
+I, Erik Andersen, am the sole owner of ECI and all associated intellectual property.
+This registry exists solely to provide cryptographic integrity verification.
+
+All rights reserved.
+
+SIGNED
+Erik Andersen
+Founder & IP Owner
