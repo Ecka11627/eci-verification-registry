@@ -1,0 +1,10 @@
+Artifact: ECI_Language_Control_v1.0_IP.pdf
+Version: 1.0
+Status: Locked
+Owner: Erik Christian Andersen (DOB: 22 April 1963)
+
+SHA256: D00674AE2D6D159CCC8A1CE332E504339B4822E66DBAFDE5D0FAB15AB103CB4A
+
+Generated: 9:32am Saturday 23 January 2026
+Method: Local PowerShell Get-FileHash (SHA256)
+Location: C:\ENGINE\ECI\Controls
