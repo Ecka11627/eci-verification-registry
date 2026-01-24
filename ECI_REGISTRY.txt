@@ -1,0 +1,24 @@
+--- ECI REGISTRY ENTRY ---
+Asset: CORE
+Framework: CORE
+Version: v1.6.3
+File: CORE_v1.6.3_IP.pdf
+SHA256: BE05D7368DE37E2FE2D6DDAFD171D1E5F1CA9C22089F9261C3A7C5163A63FF63 
+Owner: Erik Andersen
+Status: Design Locked
+Location: C:\Users\ecka1\OneDrive\Desktop\Bob\Bob - EOS
+Timestamp: <ISO 8601>
+--------------------------
+
+--- ECI REGISTRY ENTRY ---
+Asset: AACL
+Framework: AACL
+Version: v1.11.1
+File: AACL_v1.11.1_IP.pdf
+SHA256: 54E541CCC33D139CD74A2E29FED5FDDD2C83940C8490C4D475EFB537F6A0FF87 
+Owner: Erik Andersen
+Status: Design Locked
+Authority: CORE-bound
+Location: C:\Users\ecka1\OneDrive\Desktop\Bob\Bob - EOS
+Timestamp: <ISO 8601>
+--------------------------
