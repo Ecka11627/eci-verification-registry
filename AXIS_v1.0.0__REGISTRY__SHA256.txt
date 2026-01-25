@@ -1,0 +1,38 @@
+REGISTRY ENTRY — AXIS v1.0.0
+
+Artifact Name: AXIS v1.0.0
+Artifact Type: Authoritative Execution Framework
+Status: LOCKED / FINAL
+Authority: Erik Andersen
+
+Description:
+AXIS v1.0.0 is the authoritative, deterministic execution framework governing ingestion, execution state, language fidelity, semantic completeness, operator control, emission law, and fail-closed enforcement. AXIS eliminates interpretation and discretion by design and constitutes the sole execution law for all AXIS-governed systems and derivatives.
+
+Custody Declaration:
+This artifact is final, immutable, and authoritative. No modifications, derivations, or alternative versions are valid unless explicitly versioned, hashed, and re-registered under the AXIS registry.
+
+Hash Algorithm: SHA-256
+Artifact Hash:
+
+6E9320871D437CDE3D5E53A412C653667CC3FE6BBC102FC1C5A4940DD4BF6DA9 
+
+
+Source Location:
+Local custody — Erik Andersen
+
+Effective Date (UTC):
+
+2026-01-26
+
+
+Governing Ruleset:
+AXIS v1.0.0 — Deterministic Execution Framework
+
+Supersedes:
+None (Initial release)
+
+Notes:
+
+CORE v1.6.5 and AACL v1.11 are legacy frameworks fully absorbed into AXIS and hold no independent authority.
+
+This registry entry is documentary and does not grant licence, rights, or usage authority.
