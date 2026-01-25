@@ -46,3 +46,20 @@ NOTES:
 This hash represents the authoritative CORE execution artefact.
 Any deviation invalidates this version.
 ----------------------------------------------------------------------
+----------------------------------------------------------------------
+ARTEFACT: CORE v1.6.5.pdf
+TYPE: CORE Execution Framework
+STATUS: DESIGN LOCKED
+
+VERSION: v1.6.5
+DATE: 25 January 2026
+
+SHA256:
+671B7A5E22099AFEA1F176BBE01E963CFCED0B5E5750E115FAC82CA249796D67 
+
+SCOPE:
+CORE governed execution framework.
+Zero discretion;
+Semantic Closure (Patch 24);
+Operator Observability & Halt Signalling (Patch 25).
+----------------------------------------------------------------------
