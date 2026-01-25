@@ -22,3 +22,27 @@ Authority: CORE-bound
 Location: C:\Users\ecka1\OneDrive\Desktop\Bob\Bob - EOS
 Timestamp: <ISO 8601>
 --------------------------
+----------------------------------------------------------------------
+ARTEFACT: CORE v1.6.4.pdf
+TYPE: CORE Execution Framework
+STATUS: DESIGN LOCKED
+
+VERSION: v1.6.4
+DATE: 25 January 2026
+
+SHA256:
+A0FAA9306C005CD8B49542C8E6E8CD66E082E23828B614A5448713C715ABD940
+
+SCOPE:
+CORE governed execution framework.
+Zero discretion;
+Autonomous gate chaining;
+Semantic Closure formalised as Patch 24.
+
+REPOSITORY:
+eci-verification-registry
+
+NOTES:
+This hash represents the authoritative CORE execution artefact.
+Any deviation invalidates this version.
+----------------------------------------------------------------------
